@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Help">
+
+   <ImageView
+       android:id="@+id/bg4"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:scaleType="fitXY"
+       android:src="@drawable/cgpa"/>
+
+    <ImageView
+        android:id="@+id/bg1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/bcd"
+        />
+
+    <ImageView
+    android:id="@+id/bg3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scaleType="fitXY"
+    android:src="@drawable/bg2"
+    />
+
+    <ImageView
+        android:id="@+id/bg2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/gpa"
+        />
+
+    <ImageView
+        android:id="@+id/bg5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/absff"
+        />
+
+
+
+
+</FrameLayout>
