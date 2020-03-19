@@ -216,6 +216,8 @@ public class GpaCalc extends AppCompatActivity implements View.OnClickListener {
 
         d1=d1/d2;
 
+
+
         double rounded1 = round(d1, 2);
         str=String.valueOf(rounded1);
 
