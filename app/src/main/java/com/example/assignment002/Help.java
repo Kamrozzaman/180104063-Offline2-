@@ -23,6 +23,8 @@ public class Help extends AppCompatActivity implements View.OnClickListener{
         i1.setVisibility(i1.VISIBLE);
 
 
+
+
         i1.setOnClickListener(this);
         i2.setOnClickListener(this);
         i3.setOnClickListener(this);
