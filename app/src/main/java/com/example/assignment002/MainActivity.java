@@ -47,6 +47,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         }
 
+
+
         if(v.getId()==R.id.help){
             Intent grad = new Intent(MainActivity.this, Help.class);
             startActivity(grad);
