@@ -12,6 +12,8 @@ public class CgpaCal extends AppCompatActivity implements View.OnClickListener{
 
 
 
+
+
     EditText e1,e2,e3,e4,e5,e6,e7,e8;
     Button B1;
     TextView t1;

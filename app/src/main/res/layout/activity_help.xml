@@ -36,12 +36,6 @@
         android:scaleType="fitXY"
         android:src="@drawable/gpa"
 
-
-
-
-
-
-
         />
 
     <ImageView
